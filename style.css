@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(35, 193, 151);
+    margin-top: 70px;
+    margin-left: 18%;
+    margin-right: 18%;
+
+}
+#pic{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    font-family: Algerian;
+    text-shadow: 5px 5px 10px white;
+    margin: 0;
+    padding: 0;
+    
+}
+#caption{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 120px;
+   
+}
+#about{
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #98FB98;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+
+}
+#head{
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    text-shadow: 5px 5px 15px rgb(0, 0, 0);
+    padding: 40px;
+   
+}
+a{
+    text-decoration: none;
+    
+}
